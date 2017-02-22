@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <extentreports>
+        <configuration>
+            <encoding>UTF-8</encoding>
+            <documentTitle>Hotstar Test Report</documentTitle>
+            <reportName>WEB Test Report</reportName>
+            <reportHeadline> - v1.0.0</reportHeadline>
+            <theme>dark</theme>
+        </configuration>
+    </extentreports>
